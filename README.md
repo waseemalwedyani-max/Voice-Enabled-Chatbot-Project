@@ -5,6 +5,7 @@ This project was developed to create an interactive web-based voice assistant, a
 
 **Developer:** Waseem Al-wedyani  
 **Hosting Environment:** InfinityFree (LAMP Stack)
+**Live Demo:** [https://waseemakwedyani.site.je/](https://waseemakwedyani.site.je/)
 
 ---
 
